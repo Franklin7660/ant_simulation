@@ -12,17 +12,21 @@ Interactive Interface: Visualize ant movement and environment updates in real ti
 Customizable Parameters: Easily tweak simulation settings like the number of ants, pheromone strength, and decay rates.
 
 🚀 How to Run
+Clone the repository
 bash
 Copier
 Modifier
-# Clone the repository
 git clone https://github.com/yourusername/ant-simulation.git
 cd ant-simulation
-
-# Install dependencies (if any)
+Install dependencies (if any)
+bash
+Copier
+Modifier
 pip install -r requirements.txt
-
-# Run the simulation
+Run the simulation
+bash
+Copier
+Modifier
 python main.py
 Note:
 The simulation uses only standard Python libraries. No external dependencies are required!
