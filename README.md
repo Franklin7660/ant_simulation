@@ -1,8 +1,8 @@
-🐜 Ant Simulation
+# 🐜 Ant Simulation
 An interactive Python-based simulation modeling the behavior of ants in a dynamic environment!
 Ants search for food, leave pheromone trails, and collaboratively adapt to changing conditions.
 
-✨ Features
+# ✨ Features
 Realistic Ant Behavior: Follows pheromone gradients, food-seeking, and returning to the nest.
 
 Dynamic Environment: Pheromone trails decay over time, encouraging exploration.
@@ -11,7 +11,7 @@ Interactive Interface: Visualize ant movement and environment updates in real ti
 
 Customizable Parameters: Easily tweak simulation settings like the number of ants, pheromone strength, and decay rates.
 
-🚀 How to Run
+# 🚀 How to Run
 Clone the repository
 bash
 Copier
@@ -31,7 +31,7 @@ python main.py
 Note:
 The simulation uses only standard Python libraries. No external dependencies are required!
 
-📂 Project Structure
+# 📂 Project Structure
 graphql
 Copier
 Modifier
@@ -39,7 +39,7 @@ Modifier
 ├── Interface.py   # Manages the graphical display of the simulation
 ├── Simulation.py  # Core simulation engine (ants, pheromones, environment)
 ├── main.py        # Entry point to start the simulation
-🎯 Future Ideas
+# 🎯 Future Ideas
 Adding multiple ant colonies competing for resources
 
 Obstacles and complex terrain generation
