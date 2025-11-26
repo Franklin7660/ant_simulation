@@ -1,5 +1,5 @@
 # 🐜 Ant Simulation
-Personal project interactive Python-based simulation modeling the behavior of ants in a dynamic environment!
+Personal project: interactive Python-based simulation modeling the behavior of ants in a dynamic environment!
 Ants search for food, leave pheromone trails, and collaboratively adapt to changing conditions.
 
 # ✨ Features
